@@ -8,4 +8,4 @@ yfinance==0.1.55
 numpy==1.18.2
 pandas==1.0.3
 scikit_learn==0.23.2
-talib==0.1.1
+
